@@ -1,0 +1,16 @@
+{
+  "name": "build-server",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@azure/storage-blob": "^12.27.0",
+    "mime-types": "^3.0.1",
+    "mine-type": "^1.0.0"
+  }
+}
